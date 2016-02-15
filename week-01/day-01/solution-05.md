@@ -28,8 +28,5 @@ Column 1 | Column 2 | Column 3
 blah blah | blah blah blah | blah 
 la la | la la la | la la la la
 
-I can mention someone just like this
-
-@mdelamata and say Hello! 
 
 Best thing of all: emoji is supported! 🤓😍🐷
