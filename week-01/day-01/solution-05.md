@@ -17,7 +17,7 @@
 
 	[Click here to go to the source of the image](http://www.disneynet.es/2014/11/wallpapers-wall-e.html)
 
-	*You can also write quotes
+	* You can also write quotes
 
 	> Eeeeee... Va! 
 
@@ -28,7 +28,8 @@ Column 1 | Column 2 | Column 3
 blah blah | blah blah blah | blah 
 la la | la la la | la la la la
 
-3. I can mention someone just like this
+I can mention someone just like this
+
 @mdelamata and say Hello! 
 
-4. Best thing of all: emoji is supported! 🤓😍🐷
+Best thing of all: emoji is supported! 🤓😍🐷
