@@ -20,7 +20,7 @@
 			<td>8</td>
 		</tr>
 		<tr>
-			<td rowspan="2">9</td>
+			<td colspan="2">9</td>
 			<td>10</td>
 		</tr>
 	</table>
