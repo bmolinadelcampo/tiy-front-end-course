@@ -1,4 +1,4 @@
-<<!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
 	<title>The Shard</title>
@@ -85,7 +85,7 @@
 		<br />
 		Floor: <input type="number" name="floor" pattern="\d*" min="0" max="72" required>
 		<br />
-		Restaurant? <input type="radio" name="yes" value="yes" /><label for="yes">Yes</label> <input type="radio" name="no" value="no" selected="selected" /><label for="no">No</label>
+		Restaurant? <input type="radio" name="restaurant" value="yes" id="yes" /><label for="yes">Yes</label> <input type="radio" name="restaurant" value="no" id="no" checked="checked" /><label for="no">No</label>
 		<br />
 		If yes, which restaurant? <select name="restaurant">
 			<option disabled selected> -- select a restaurant -- </option>
@@ -94,7 +94,7 @@
 			<option value="aquashard">Aqua Shard</option>
 		</select>
 		<br />
-		Number of children: <input type="number" name="numberofchildren" pattern="\d*" max="5" required />
+		Number of children: <input type="number" name="numberofchildren" pattern="\d*" max="5" min="0" required />
 		<br />
 		Phone number: <input type="tel" name="phone" />
 		<br />
